@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "local-cast-weather",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
